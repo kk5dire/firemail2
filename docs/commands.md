@@ -8,6 +8,8 @@
 ## Inside a Modmail thread
 These commands can only be used inside a Modmail thread's channel on the inbox server.
 
+### Prefix mail. not !
+
 ### `!reply <text>` / `!r <text>`
 Send a reply to the user.
 
